@@ -104,3 +104,86 @@ else:
         labels={"captured_at": "Time", "concurrent_players": "Concurrent Players"},
     )
     st.plotly_chart(fig_ts, use_container_width=True)
+
+    # --- Price trend for the same selected game ---
+st.subheader(f"Price History: {selected_name}")
+
+st.caption(
+    "Price history begins from this project's data collection start date - "
+    "Steam's API only exposes current pricing, not historical records, so "
+    "this chart deepens the longer the automated collection runs."
+)
+price_ts_query = text("""
+    SELECT captured_at, price_usd, discount_pct
+    FROM price_snapshots
+    WHERE appid = :appid
+    ORDER BY captured_at
+""")
+price_ts_df = pd.read_sql(price_ts_query, engine, params={"appid": selected_appid})
+
+if price_ts_df.empty:
+    st.info("No price snapshots collected yet for this game.")
+else:
+    fig_price = px.line(
+        price_ts_df, x="captured_at", y="price_usd",
+        labels={"captured_at": "Time", "price_usd": "Price (USD)"},
+    )
+    st.plotly_chart(fig_price, use_container_width=True)
+
+# --- Current deals (biggest active discounts across all tracked games) ---
+st.header("Current Deals")
+st.caption("Latest known price/discount per game, sorted by biggest active discount.")
+
+deals_query = text("""
+    WITH latest_prices AS (
+        SELECT DISTINCT ON (a.appid) a.appid, a.name, ps.price_usd, ps.discount_pct, ps.captured_at
+        FROM price_snapshots ps
+        JOIN apps a ON a.appid = ps.appid
+        ORDER BY a.appid, ps.captured_at DESC
+    )
+    SELECT name, price_usd, discount_pct
+    FROM latest_prices
+    WHERE discount_pct > 0
+    ORDER BY discount_pct DESC
+    LIMIT 10
+""")
+deals_df = pd.read_sql(deals_query, engine)
+
+if deals_df.empty:
+    st.info("No active discounts among tracked games right now.")
+else:
+    fig_deals = px.bar(
+        deals_df, x="discount_pct", y="name", orientation="h",
+        labels={"discount_pct": "Discount %", "name": ""},
+        hover_data=["price_usd"],
+    )
+    fig_deals.update_layout(yaxis={"categoryorder": "total ascending"})
+    st.plotly_chart(fig_deals, use_container_width=True)
+
+# --- Achievement completion rates ---
+st.header("Achievement Completion Rates")
+st.caption(
+    "Games with fewer than 5 tracked achievements are excluded to avoid "
+    "small-sample skew (see sql/analysis/achievement_completion_rates.sql)."
+)
+
+achievement_query = text("""
+    SELECT a.name,
+           COUNT(*) AS achievements_tracked,
+           ROUND(AVG(ac.global_completion_pct), 1) AS avg_completion_pct
+    FROM achievement_stats ac
+    JOIN apps a ON a.appid = ac.appid
+    GROUP BY a.name
+    HAVING COUNT(*) >= 5
+    ORDER BY avg_completion_pct ASC
+    LIMIT 10
+""")
+achievement_df = pd.read_sql(achievement_query, engine)
+
+fig_achieve = px.bar(
+    achievement_df, x="avg_completion_pct", y="name", orientation="h",
+    labels={"avg_completion_pct": "Avg Completion %", "name": ""},
+    hover_data=["achievements_tracked"],
+)
+fig_achieve.update_layout(yaxis={"categoryorder": "total descending"})
+st.plotly_chart(fig_achieve, use_container_width=True)

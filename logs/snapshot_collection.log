@@ -316,3 +316,739 @@ Collecting snapshots for 50 tracked apps...
 [49/50] appid 2358720: players=2662, price=$59.99, discount=0%
 [50/50] appid 2694490: players=65408, price=$29.99, discount=0%
 Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=2, price=$None, discount=None%
+[2/50] appid 440: players=41474, price=$0.0, discount=0%
+[3/50] appid 550: players=25998, price=$1.99, discount=80%
+[4/50] appid 730: players=584646, price=$0.0, discount=0%
+[5/50] appid 4000: players=16974, price=$4.99, discount=50%
+[6/50] appid 49520: players=1585, price=$4.99, discount=75%
+[7/50] appid 105600: players=28726, price=$4.99, discount=50%
+[8/50] appid 218620: players=32264, price=$2.99, discount=70%
+[9/50] appid 227300: players=16289, price=$4.99, discount=75%
+[10/50] appid 230410: players=41520, price=$0.0, discount=0%
+[11/50] appid 236390: players=38232, price=$0.0, discount=0%
+[12/50] appid 238960: players=3123, price=$0.0, discount=0%
+[13/50] appid 242760: players=5697, price=$4.39, discount=78%
+[14/50] appid 252490: players=75705, price=$19.99, discount=50%
+[15/50] appid 271590: players=51866, price=$None, discount=None%
+[16/50] appid 291480: players=3, price=$None, discount=None%
+[17/50] appid 291550: players=6213, price=$0.0, discount=0%
+[18/50] appid 292030: players=13100, price=$3.99, discount=90%
+[19/50] appid 304930: players=13474, price=$0.0, discount=0%
+[20/50] appid 346110: players=15734, price=$9.89, discount=34%
+[21/50] appid 359550: players=34612, price=$0.0, discount=0%
+[22/50] appid 381210: players=53672, price=$7.99, discount=60%
+[23/50] appid 413150: players=65663, price=$8.99, discount=40%
+[24/50] appid 431960: players=88274, price=$3.99, discount=20%
+[25/50] appid 438100: players=40594, price=$0.0, discount=0%
+[26/50] appid 444090: players=391, price=$0.0, discount=0%
+[27/50] appid 552990: players=6868, price=$0.0, discount=0%
+[28/50] appid 553850: players=18148, price=$29.99, discount=25%
+[29/50] appid 578080: players=320212, price=$0.0, discount=0%
+[30/50] appid 739630: players=4843, price=$13.99, discount=30%
+[31/50] appid 892970: players=9415, price=$9.99, discount=50%
+[32/50] appid 899770: players=611, price=$27.99, discount=20%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=5657, price=$2.99, discount=40%
+[35/50] appid 990080: players=3889, price=$8.99, discount=85%
+[36/50] appid 1063730: players=367, price=$None, discount=None%
+[37/50] appid 1085660: players=43383, price=$0.0, discount=0%
+[38/50] appid 1086940: players=28590, price=$44.99, discount=25%
+[39/50] appid 1091500: players=53013, price=$17.99, discount=70%
+[40/50] appid 1097150: players=284, price=$None, discount=None%
+[41/50] appid 1172470: players=80391, price=$0.0, discount=0%
+[42/50] appid 1203220: players=46412, price=$0.0, discount=0%
+[43/50] appid 1245620: players=21351, price=$59.99, discount=0%
+[44/50] appid 1491000: players=198, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4046, price=$0.0, discount=0%
+[46/50] appid 1623730: players=33309, price=$20.99, discount=30%
+[47/50] appid 1938090: players=17305, price=$None, discount=None%
+[48/50] appid 2246340: players=15097, price=$29.39, discount=58%
+[49/50] appid 2358720: players=9110, price=$59.99, discount=0%
+[50/50] appid 2694490: players=46662, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=1, price=$None, discount=None%
+[2/50] appid 440: players=45086, price=$0.0, discount=0%
+[3/50] appid 550: players=19997, price=$1.99, discount=80%
+[4/50] appid 730: players=843354, price=$0.0, discount=0%
+[5/50] appid 4000: players=21907, price=$4.99, discount=50%
+[6/50] appid 49520: players=1432, price=$4.99, discount=75%
+[7/50] appid 105600: players=31428, price=$4.99, discount=50%
+[8/50] appid 218620: players=31404, price=$2.99, discount=70%
+[9/50] appid 227300: players=31750, price=$4.99, discount=75%
+[10/50] appid 230410: players=47008, price=$0.0, discount=0%
+[11/50] appid 236390: players=51809, price=$0.0, discount=0%
+[12/50] appid 238960: players=4044, price=$0.0, discount=0%
+[13/50] appid 242760: players=6866, price=$4.39, discount=78%
+[14/50] appid 252490: players=107542, price=$19.99, discount=50%
+[15/50] appid 271590: players=81824, price=$None, discount=None%
+[16/50] appid 291480: players=7, price=$None, discount=None%
+[17/50] appid 291550: players=7161, price=$0.0, discount=0%
+[18/50] appid 292030: players=22221, price=$3.99, discount=90%
+[19/50] appid 304930: players=15036, price=$0.0, discount=0%
+[20/50] appid 346110: players=21204, price=$9.89, discount=34%
+[21/50] appid 359550: players=35643, price=$0.0, discount=0%
+[22/50] appid 381210: players=69863, price=$7.99, discount=60%
+[23/50] appid 413150: players=85099, price=$8.99, discount=40%
+[24/50] appid 431960: players=108849, price=$3.99, discount=20%
+[25/50] appid 438100: players=37704, price=$0.0, discount=0%
+[26/50] appid 444090: players=533, price=$0.0, discount=0%
+[27/50] appid 552990: players=10516, price=$0.0, discount=0%
+[28/50] appid 553850: players=25035, price=$29.99, discount=25%
+[29/50] appid 578080: players=527400, price=$0.0, discount=0%
+[30/50] appid 739630: players=6304, price=$13.99, discount=30%
+[31/50] appid 892970: players=14239, price=$9.99, discount=50%
+[32/50] appid 899770: players=857, price=$27.99, discount=20%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=6190, price=$2.99, discount=40%
+[35/50] appid 990080: players=5618, price=$8.99, discount=85%
+[36/50] appid 1063730: players=445, price=$None, discount=None%
+[37/50] appid 1085660: players=40859, price=$0.0, discount=0%
+[38/50] appid 1086940: players=35820, price=$44.99, discount=25%
+[39/50] appid 1091500: players=69114, price=$17.99, discount=70%
+[40/50] appid 1097150: players=399, price=$None, discount=None%
+[41/50] appid 1172470: players=131046, price=$0.0, discount=0%
+[42/50] appid 1203220: players=90383, price=$0.0, discount=0%
+[43/50] appid 1245620: players=31816, price=$59.99, discount=0%
+[44/50] appid 1491000: players=318, price=$0.0, discount=0%
+[45/50] appid 1599340: players=5928, price=$0.0, discount=0%
+[46/50] appid 1623730: players=50837, price=$20.99, discount=30%
+[47/50] appid 1938090: players=23752, price=$None, discount=None%
+[48/50] appid 2246340: players=29208, price=$29.39, discount=58%
+[49/50] appid 2358720: players=14709, price=$59.99, discount=0%
+[50/50] appid 2694490: players=68784, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+  -> warning: price request failed for 340: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=340&cc=us&l=en
+[1/50] appid 340: players=1, price=$None, discount=None%
+  -> warning: price request failed for 440: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=440&cc=us&l=en
+[2/50] appid 440: players=39703, price=$None, discount=None%
+  -> warning: price request failed for 550: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=550&cc=us&l=en
+[3/50] appid 550: players=27225, price=$None, discount=None%
+  -> warning: price request failed for 730: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=730&cc=us&l=en
+[4/50] appid 730: players=587100, price=$None, discount=None%
+  -> warning: price request failed for 4000: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=4000&cc=us&l=en
+[5/50] appid 4000: players=23717, price=$None, discount=None%
+  -> warning: price request failed for 49520: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=49520&cc=us&l=en
+[6/50] appid 49520: players=2281, price=$None, discount=None%
+  -> warning: price request failed for 105600: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=105600&cc=us&l=en
+[7/50] appid 105600: players=34718, price=$None, discount=None%
+  -> warning: price request failed for 218620: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=218620&cc=us&l=en
+[8/50] appid 218620: players=29417, price=$None, discount=None%
+  -> warning: price request failed for 227300: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=227300&cc=us&l=en
+[9/50] appid 227300: players=23047, price=$None, discount=None%
+  -> warning: price request failed for 230410: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=230410&cc=us&l=en
+[10/50] appid 230410: players=46578, price=$None, discount=None%
+  -> warning: price request failed for 236390: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=236390&cc=us&l=en
+[11/50] appid 236390: players=33241, price=$None, discount=None%
+  -> warning: price request failed for 238960: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=238960&cc=us&l=en
+[12/50] appid 238960: players=4181, price=$None, discount=None%
+  -> warning: price request failed for 242760: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=242760&cc=us&l=en
+[13/50] appid 242760: players=7068, price=$None, discount=None%
+  -> warning: price request failed for 252490: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=252490&cc=us&l=en
+[14/50] appid 252490: players=110392, price=$None, discount=None%
+[15/50] appid 271590: players=60643, price=$None, discount=None%
+  -> warning: price request failed for 291480: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=291480&cc=us&l=en
+[16/50] appid 291480: players=7, price=$None, discount=None%
+  -> warning: price request failed for 291550: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=291550&cc=us&l=en
+[17/50] appid 291550: players=13100, price=$None, discount=None%
+  -> warning: price request failed for 292030: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=292030&cc=us&l=en
+[18/50] appid 292030: players=14579, price=$None, discount=None%
+  -> warning: price request failed for 304930: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=304930&cc=us&l=en
+[19/50] appid 304930: players=7404, price=$None, discount=None%
+  -> warning: price request failed for 346110: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=346110&cc=us&l=en
+[20/50] appid 346110: players=14608, price=$None, discount=None%
+  -> warning: price request failed for 359550: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=359550&cc=us&l=en
+[21/50] appid 359550: players=57939, price=$None, discount=None%
+  -> warning: price request failed for 381210: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=381210&cc=us&l=en
+[22/50] appid 381210: players=79331, price=$None, discount=None%
+[23/50] appid 413150: players=43552, price=$14.99, discount=0%
+  -> warning: price request failed for 431960: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=431960&cc=us&l=en
+[24/50] appid 431960: players=57729, price=$None, discount=None%
+  -> warning: price request failed for 438100: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=438100&cc=us&l=en
+[25/50] appid 438100: players=28178, price=$None, discount=None%
+  -> warning: price request failed for 444090: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=444090&cc=us&l=en
+[26/50] appid 444090: players=956, price=$None, discount=None%
+  -> warning: price request failed for 552990: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=552990&cc=us&l=en
+[27/50] appid 552990: players=4820, price=$None, discount=None%
+  -> warning: price request failed for 553850: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=553850&cc=us&l=en
+[28/50] appid 553850: players=24939, price=$None, discount=None%
+  -> warning: price request failed for 578080: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=578080&cc=us&l=en
+[29/50] appid 578080: players=108981, price=$None, discount=None%
+  -> warning: price request failed for 739630: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=739630&cc=us&l=en
+[30/50] appid 739630: players=8006, price=$None, discount=None%
+  -> warning: price request failed for 892970: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=892970&cc=us&l=en
+[31/50] appid 892970: players=17466, price=$None, discount=None%
+  -> warning: price request failed for 899770: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=899770&cc=us&l=en
+[32/50] appid 899770: players=675, price=$None, discount=None%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+  -> warning: price request failed for 901583: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=901583&cc=us&l=en
+[33/50] appid 901583: players=None, price=$None, discount=None%
+  -> warning: price request failed for 945360: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=945360&cc=us&l=en
+[34/50] appid 945360: players=10613, price=$None, discount=None%
+[35/50] appid 990080: players=5266, price=$59.99, discount=0%
+  -> warning: price request failed for 1063730: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1063730&cc=us&l=en
+[36/50] appid 1063730: players=537, price=$None, discount=None%
+  -> warning: price request failed for 1085660: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1085660&cc=us&l=en
+[37/50] appid 1085660: players=61435, price=$None, discount=None%
+  -> warning: price request failed for 1086940: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1086940&cc=us&l=en
+[38/50] appid 1086940: players=44535, price=$None, discount=None%
+  -> warning: price request failed for 1091500: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1091500&cc=us&l=en
+[39/50] appid 1091500: players=53057, price=$None, discount=None%
+  -> warning: price request failed for 1097150: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1097150&cc=us&l=en
+[40/50] appid 1097150: players=507, price=$None, discount=None%
+  -> warning: price request failed for 1172470: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1172470&cc=us&l=en
+[41/50] appid 1172470: players=49236, price=$None, discount=None%
+  -> warning: price request failed for 1203220: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1203220&cc=us&l=en
+[42/50] appid 1203220: players=8680, price=$None, discount=None%
+  -> warning: price request failed for 1245620: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1245620&cc=us&l=en
+[43/50] appid 1245620: players=25960, price=$None, discount=None%
+  -> warning: price request failed for 1491000: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1491000&cc=us&l=en
+[44/50] appid 1491000: players=218, price=$None, discount=None%
+  -> warning: price request failed for 1599340: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1599340&cc=us&l=en
+[45/50] appid 1599340: players=6138, price=$None, discount=None%
+[46/50] appid 1623730: players=31102, price=$20.99, discount=30%
+  -> warning: price request failed for 1938090: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=1938090&cc=us&l=en
+[47/50] appid 1938090: players=32700, price=$None, discount=None%
+[48/50] appid 2246340: players=11833, price=$69.99, discount=0%
+  -> warning: price request failed for 2358720: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=2358720&cc=us&l=en
+[49/50] appid 2358720: players=2666, price=$None, discount=None%
+  -> warning: price request failed for 2694490: 429 Client Error: Too Many Requests for url: https://store.steampowered.com/api/appdetails?appids=2694490&cc=us&l=en
+[50/50] appid 2694490: players=64105, price=$None, discount=None%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=1, price=$None, discount=None%
+[2/50] appid 440: players=44797, price=$0.0, discount=0%
+[3/50] appid 550: players=38503, price=$9.99, discount=0%
+[4/50] appid 730: players=503420, price=$0.0, discount=0%
+[5/50] appid 4000: players=19129, price=$9.99, discount=0%
+[6/50] appid 49520: players=2425, price=$19.99, discount=0%
+[7/50] appid 105600: players=30832, price=$9.99, discount=0%
+[8/50] appid 218620: players=27734, price=$9.99, discount=0%
+[9/50] appid 227300: players=13591, price=$4.99, discount=75%
+[10/50] appid 230410: players=51460, price=$0.0, discount=0%
+[11/50] appid 236390: players=35693, price=$0.0, discount=0%
+[12/50] appid 238960: players=3319, price=$0.0, discount=0%
+[13/50] appid 242760: players=7265, price=$19.99, discount=0%
+[14/50] appid 252490: players=79866, price=$39.99, discount=0%
+[15/50] appid 271590: players=43854, price=$None, discount=None%
+[16/50] appid 291480: players=5, price=$None, discount=None%
+[17/50] appid 291550: players=11181, price=$0.0, discount=0%
+[18/50] appid 292030: players=11982, price=$39.99, discount=0%
+[19/50] appid 304930: players=12170, price=$0.0, discount=0%
+[20/50] appid 346110: players=15262, price=$9.89, discount=34%
+[21/50] appid 359550: players=60244, price=$0.0, discount=0%
+[22/50] appid 381210: players=74585, price=$19.99, discount=0%
+[23/50] appid 413150: players=59642, price=$14.99, discount=0%
+[24/50] appid 431960: players=75802, price=$4.99, discount=0%
+[25/50] appid 438100: players=42431, price=$0.0, discount=0%
+[26/50] appid 444090: players=791, price=$0.0, discount=0%
+[27/50] appid 552990: players=7252, price=$0.0, discount=0%
+[28/50] appid 553850: players=29474, price=$39.99, discount=0%
+[29/50] appid 578080: players=173738, price=$0.0, discount=0%
+[30/50] appid 739630: players=8049, price=$19.99, discount=0%
+[31/50] appid 892970: players=15142, price=$19.99, discount=0%
+[32/50] appid 899770: players=684, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=10286, price=$4.99, discount=0%
+[35/50] appid 990080: players=4515, price=$59.99, discount=0%
+[36/50] appid 1063730: players=511, price=$None, discount=None%
+[37/50] appid 1085660: players=68311, price=$0.0, discount=0%
+[38/50] appid 1086940: players=44522, price=$59.99, discount=0%
+[39/50] appid 1091500: players=54626, price=$59.99, discount=0%
+[40/50] appid 1097150: players=485, price=$None, discount=None%
+[41/50] appid 1172470: players=67406, price=$0.0, discount=0%
+[42/50] appid 1203220: players=28759, price=$0.0, discount=0%
+[43/50] appid 1245620: players=26211, price=$59.99, discount=0%
+[44/50] appid 1491000: players=206, price=$0.0, discount=0%
+[45/50] appid 1599340: players=5513, price=$0.0, discount=0%
+[46/50] appid 1623730: players=77259, price=$20.99, discount=30%
+[47/50] appid 1938090: players=29700, price=$None, discount=None%
+[48/50] appid 2246340: players=15221, price=$69.99, discount=0%
+[49/50] appid 2358720: players=6858, price=$59.99, discount=0%
+[50/50] appid 2694490: players=51841, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=0, price=$None, discount=None%
+[2/50] appid 440: players=47219, price=$0.0, discount=0%
+[3/50] appid 550: players=28141, price=$9.99, discount=0%
+[4/50] appid 730: players=762577, price=$0.0, discount=0%
+[5/50] appid 4000: players=24479, price=$9.99, discount=0%
+[6/50] appid 49520: players=2300, price=$19.99, discount=0%
+[7/50] appid 105600: players=25128, price=$9.99, discount=0%
+[8/50] appid 218620: players=32464, price=$9.99, discount=0%
+[9/50] appid 227300: players=25967, price=$4.99, discount=75%
+[10/50] appid 230410: players=57124, price=$0.0, discount=0%
+[11/50] appid 236390: players=33697, price=$0.0, discount=0%
+[12/50] appid 238960: players=4188, price=$0.0, discount=0%
+[13/50] appid 242760: players=6711, price=$19.99, discount=0%
+[14/50] appid 252490: players=113225, price=$39.99, discount=0%
+[15/50] appid 271590: players=61109, price=$None, discount=None%
+[16/50] appid 291480: players=4, price=$None, discount=None%
+[17/50] appid 291550: players=12761, price=$0.0, discount=0%
+[18/50] appid 292030: players=14538, price=$39.99, discount=0%
+[19/50] appid 304930: players=13704, price=$0.0, discount=0%
+[20/50] appid 346110: players=15971, price=$9.89, discount=34%
+[21/50] appid 359550: players=57284, price=$0.0, discount=0%
+[22/50] appid 381210: players=80907, price=$19.99, discount=0%
+[23/50] appid 413150: players=43862, price=$14.99, discount=0%
+[24/50] appid 431960: players=52510, price=$4.99, discount=0%
+[25/50] appid 438100: players=44386, price=$0.0, discount=0%
+[26/50] appid 444090: players=1012, price=$0.0, discount=0%
+[27/50] appid 552990: players=5749, price=$0.0, discount=0%
+[28/50] appid 553850: players=26262, price=$39.99, discount=0%
+[29/50] appid 578080: players=118874, price=$0.0, discount=0%
+[30/50] appid 739630: players=7895, price=$19.99, discount=0%
+[31/50] appid 892970: players=18677, price=$19.99, discount=0%
+[32/50] appid 899770: players=719, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=10639, price=$4.99, discount=0%
+[35/50] appid 990080: players=5198, price=$59.99, discount=0%
+[36/50] appid 1063730: players=521, price=$None, discount=None%
+[37/50] appid 1085660: players=62358, price=$0.0, discount=0%
+[38/50] appid 1086940: players=45866, price=$59.99, discount=0%
+[39/50] appid 1091500: players=52026, price=$59.99, discount=0%
+[40/50] appid 1097150: players=550, price=$None, discount=None%
+[41/50] appid 1172470: players=55227, price=$0.0, discount=0%
+[42/50] appid 1203220: players=9239, price=$0.0, discount=0%
+[43/50] appid 1245620: players=26987, price=$59.99, discount=0%
+[44/50] appid 1491000: players=219, price=$0.0, discount=0%
+[45/50] appid 1599340: players=5448, price=$0.0, discount=0%
+[46/50] appid 1623730: players=331709, price=$20.99, discount=30%
+[47/50] appid 1938090: players=33752, price=$None, discount=None%
+[48/50] appid 2246340: players=12475, price=$69.99, discount=0%
+[49/50] appid 2358720: players=2854, price=$59.99, discount=0%
+  -> warning: price request failed for 2694490: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[50/50] appid 2694490: players=66041, price=$None, discount=None%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=3, price=$None, discount=None%
+[2/50] appid 440: players=44914, price=$0.0, discount=0%
+[3/50] appid 550: players=42753, price=$9.99, discount=0%
+[4/50] appid 730: players=612656, price=$0.0, discount=0%
+[5/50] appid 4000: players=20069, price=$9.99, discount=0%
+[6/50] appid 49520: players=2484, price=$19.99, discount=0%
+[7/50] appid 105600: players=30129, price=$9.99, discount=0%
+[8/50] appid 218620: players=28985, price=$9.99, discount=0%
+[9/50] appid 227300: players=16821, price=$4.99, discount=75%
+[10/50] appid 230410: players=63147, price=$0.0, discount=0%
+[11/50] appid 236390: players=39805, price=$0.0, discount=0%
+[12/50] appid 238960: players=3662, price=$0.0, discount=0%
+[13/50] appid 242760: players=7496, price=$19.99, discount=0%
+[14/50] appid 252490: players=84362, price=$39.99, discount=0%
+[15/50] appid 271590: players=47201, price=$None, discount=None%
+[16/50] appid 291480: players=4, price=$None, discount=None%
+[17/50] appid 291550: players=11199, price=$0.0, discount=0%
+[18/50] appid 292030: players=13855, price=$39.99, discount=0%
+[19/50] appid 304930: players=11927, price=$0.0, discount=0%
+[20/50] appid 346110: players=17639, price=$9.89, discount=34%
+[21/50] appid 359550: players=62335, price=$0.0, discount=0%
+[22/50] appid 381210: players=77360, price=$19.99, discount=0%
+[23/50] appid 413150: players=64937, price=$14.99, discount=0%
+[24/50] appid 431960: players=76158, price=$4.99, discount=0%
+[25/50] appid 438100: players=54278, price=$0.0, discount=0%
+[26/50] appid 444090: players=797, price=$0.0, discount=0%
+[27/50] appid 552990: players=8699, price=$0.0, discount=0%
+[28/50] appid 553850: players=34587, price=$39.99, discount=0%
+[29/50] appid 578080: players=216905, price=$0.0, discount=0%
+[30/50] appid 739630: players=8771, price=$19.99, discount=0%
+[31/50] appid 892970: players=17342, price=$19.99, discount=0%
+[32/50] appid 899770: players=768, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=11054, price=$4.99, discount=0%
+[35/50] appid 990080: players=5065, price=$59.99, discount=0%
+[36/50] appid 1063730: players=532, price=$None, discount=None%
+[37/50] appid 1085660: players=76346, price=$0.0, discount=0%
+[38/50] appid 1086940: players=50071, price=$59.99, discount=0%
+[39/50] appid 1091500: players=58512, price=$59.99, discount=0%
+[40/50] appid 1097150: players=632, price=$None, discount=None%
+[41/50] appid 1172470: players=83750, price=$0.0, discount=0%
+[42/50] appid 1203220: players=34656, price=$0.0, discount=0%
+[43/50] appid 1245620: players=30548, price=$59.99, discount=0%
+[44/50] appid 1491000: players=251, price=$0.0, discount=0%
+[45/50] appid 1599340: players=5226, price=$0.0, discount=0%
+[46/50] appid 1623730: players=445276, price=$20.99, discount=30%
+[47/50] appid 1938090: players=34178, price=$None, discount=None%
+[48/50] appid 2246340: players=19650, price=$69.99, discount=0%
+[49/50] appid 2358720: players=9517, price=$59.99, discount=0%
+[50/50] appid 2694490: players=57798, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=0, price=$None, discount=None%
+[2/50] appid 440: players=43511, price=$0.0, discount=0%
+[3/50] appid 550: players=30368, price=$9.99, discount=0%
+[4/50] appid 730: players=756755, price=$0.0, discount=0%
+[5/50] appid 4000: players=17376, price=$9.99, discount=0%
+[6/50] appid 49520: players=1685, price=$19.99, discount=0%
+[7/50] appid 105600: players=34835, price=$9.99, discount=0%
+[8/50] appid 218620: players=31073, price=$9.99, discount=0%
+[9/50] appid 227300: players=21533, price=$4.99, discount=75%
+[10/50] appid 230410: players=53294, price=$0.0, discount=0%
+[11/50] appid 236390: players=46735, price=$0.0, discount=0%
+[12/50] appid 238960: players=3785, price=$0.0, discount=0%
+[13/50] appid 242760: players=5528, price=$19.99, discount=0%
+[14/50] appid 252490: players=84151, price=$39.99, discount=0%
+[15/50] appid 271590: players=58226, price=$None, discount=None%
+[16/50] appid 291480: players=5, price=$None, discount=None%
+[17/50] appid 291550: players=6475, price=$0.0, discount=0%
+[18/50] appid 292030: players=16741, price=$39.99, discount=0%
+[19/50] appid 304930: players=14302, price=$0.0, discount=0%
+[20/50] appid 346110: players=19670, price=$9.89, discount=34%
+[21/50] appid 359550: players=41134, price=$0.0, discount=0%
+[22/50] appid 381210: players=61317, price=$19.99, discount=0%
+[23/50] appid 413150: players=83879, price=$14.99, discount=0%
+[24/50] appid 431960: players=98319, price=$4.99, discount=0%
+[25/50] appid 438100: players=50899, price=$0.0, discount=0%
+[26/50] appid 444090: players=446, price=$0.0, discount=0%
+[27/50] appid 552990: players=8779, price=$0.0, discount=0%
+[28/50] appid 553850: players=25817, price=$39.99, discount=0%
+[29/50] appid 578080: players=476318, price=$0.0, discount=0%
+[30/50] appid 739630: players=5549, price=$19.99, discount=0%
+[31/50] appid 892970: players=12514, price=$19.99, discount=0%
+[32/50] appid 899770: players=784, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=5582, price=$4.99, discount=0%
+[35/50] appid 990080: players=4874, price=$59.99, discount=0%
+[36/50] appid 1063730: players=405, price=$None, discount=None%
+[37/50] appid 1085660: players=51071, price=$0.0, discount=0%
+[38/50] appid 1086940: players=37811, price=$59.99, discount=0%
+[39/50] appid 1091500: players=63329, price=$59.99, discount=0%
+[40/50] appid 1097150: players=386, price=$None, discount=None%
+[41/50] appid 1172470: players=132284, price=$0.0, discount=0%
+[42/50] appid 1203220: players=60880, price=$0.0, discount=0%
+[43/50] appid 1245620: players=28240, price=$59.99, discount=0%
+[44/50] appid 1491000: players=219, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4013, price=$0.0, discount=0%
+[46/50] appid 1623730: players=507685, price=$20.99, discount=30%
+[47/50] appid 1938090: players=20566, price=$None, discount=None%
+[48/50] appid 2246340: players=22871, price=$69.99, discount=0%
+[49/50] appid 2358720: players=14108, price=$59.99, discount=0%
+[50/50] appid 2694490: players=58368, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=2, price=$None, discount=None%
+[2/50] appid 440: players=56724, price=$0.0, discount=0%
+[3/50] appid 550: players=39727, price=$9.99, discount=0%
+[4/50] appid 730: players=1332356, price=$0.0, discount=0%
+[5/50] appid 4000: players=29270, price=$9.99, discount=0%
+[6/50] appid 49520: players=2394, price=$19.99, discount=0%
+[7/50] appid 105600: players=46385, price=$9.99, discount=0%
+[8/50] appid 218620: players=31894, price=$9.99, discount=0%
+[9/50] appid 227300: players=49503, price=$4.99, discount=75%
+[10/50] appid 230410: players=89237, price=$0.0, discount=0%
+[11/50] appid 236390: players=72088, price=$0.0, discount=0%
+[12/50] appid 238960: players=5790, price=$0.0, discount=0%
+[13/50] appid 242760: players=9089, price=$19.99, discount=0%
+[14/50] appid 252490: players=133406, price=$39.99, discount=0%
+[15/50] appid 271590: players=94969, price=$None, discount=None%
+[16/50] appid 291480: players=7, price=$None, discount=None%
+[17/50] appid 291550: players=10254, price=$0.0, discount=0%
+[18/50] appid 292030: players=29376, price=$39.99, discount=0%
+  -> warning: price request failed for 304930: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[19/50] appid 304930: players=15584, price=$None, discount=None%
+[20/50] appid 346110: players=28134, price=$9.89, discount=34%
+[21/50] appid 359550: players=54197, price=$0.0, discount=0%
+[22/50] appid 381210: players=96279, price=$19.99, discount=0%
+[23/50] appid 413150: players=116923, price=$14.99, discount=0%
+[24/50] appid 431960: players=119360, price=$4.99, discount=0%
+[25/50] appid 438100: players=61936, price=$0.0, discount=0%
+[26/50] appid 444090: players=924, price=$0.0, discount=0%
+[27/50] appid 552990: players=11364, price=$0.0, discount=0%
+[28/50] appid 553850: players=38718, price=$39.99, discount=0%
+[29/50] appid 578080: players=691440, price=$0.0, discount=0%
+[30/50] appid 739630: players=9642, price=$19.99, discount=0%
+[31/50] appid 892970: players=23864, price=$19.99, discount=0%
+[32/50] appid 899770: players=1165, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=8647, price=$4.99, discount=0%
+[35/50] appid 990080: players=8202, price=$59.99, discount=0%
+[36/50] appid 1063730: players=603, price=$None, discount=None%
+[37/50] appid 1085660: players=61563, price=$0.0, discount=0%
+[38/50] appid 1086940: players=60945, price=$59.99, discount=0%
+[39/50] appid 1091500: players=86985, price=$59.99, discount=0%
+[40/50] appid 1097150: players=633, price=$None, discount=None%
+[41/50] appid 1172470: players=166466, price=$0.0, discount=0%
+[42/50] appid 1203220: players=84628, price=$0.0, discount=0%
+[43/50] appid 1245620: players=41091, price=$59.99, discount=0%
+[44/50] appid 1491000: players=337, price=$0.0, discount=0%
+[45/50] appid 1599340: players=6178, price=$0.0, discount=0%
+[46/50] appid 1623730: players=716406, price=$20.99, discount=30%
+[47/50] appid 1938090: players=32459, price=$None, discount=None%
+[48/50] appid 2246340: players=31898, price=$69.99, discount=0%
+[49/50] appid 2358720: players=15573, price=$59.99, discount=0%
+[50/50] appid 2694490: players=87108, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=1, price=$None, discount=None%
+[2/50] appid 440: players=45439, price=$0.0, discount=0%
+[3/50] appid 550: players=26537, price=$9.99, discount=0%
+[4/50] appid 730: players=723343, price=$0.0, discount=0%
+[5/50] appid 4000: players=24890, price=$9.99, discount=0%
+[6/50] appid 49520: players=2450, price=$19.99, discount=0%
+[7/50] appid 105600: players=25457, price=$9.99, discount=0%
+[8/50] appid 218620: players=31437, price=$9.99, discount=0%
+[9/50] appid 227300: players=27241, price=$4.99, discount=75%
+[10/50] appid 230410: players=111966, price=$0.0, discount=0%
+[11/50] appid 236390: players=34863, price=$0.0, discount=0%
+[12/50] appid 238960: players=4498, price=$0.0, discount=0%
+[13/50] appid 242760: players=6600, price=$19.99, discount=0%
+[14/50] appid 252490: players=105329, price=$39.99, discount=0%
+[15/50] appid 271590: players=61925, price=$None, discount=None%
+[16/50] appid 291480: players=3, price=$None, discount=None%
+[17/50] appid 291550: players=11605, price=$0.0, discount=0%
+[18/50] appid 292030: players=14744, price=$39.99, discount=0%
+[19/50] appid 304930: players=13484, price=$0.0, discount=0%
+[20/50] appid 346110: players=17032, price=$9.89, discount=34%
+[21/50] appid 359550: players=48931, price=$0.0, discount=0%
+[22/50] appid 381210: players=75379, price=$19.99, discount=0%
+[23/50] appid 413150: players=46547, price=$14.99, discount=0%
+[24/50] appid 431960: players=54116, price=$4.99, discount=0%
+[25/50] appid 438100: players=47535, price=$0.0, discount=0%
+[26/50] appid 444090: players=953, price=$0.0, discount=0%
+[27/50] appid 552990: players=5824, price=$0.0, discount=0%
+[28/50] appid 553850: players=25073, price=$39.99, discount=0%
+[29/50] appid 578080: players=118080, price=$0.0, discount=0%
+[30/50] appid 739630: players=7738, price=$19.99, discount=0%
+[31/50] appid 892970: players=20011, price=$19.99, discount=0%
+[32/50] appid 899770: players=803, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=9207, price=$4.99, discount=0%
+[35/50] appid 990080: players=5553, price=$59.99, discount=0%
+[36/50] appid 1063730: players=502, price=$None, discount=None%
+[37/50] appid 1085660: players=61572, price=$0.0, discount=0%
+[38/50] appid 1086940: players=51434, price=$59.99, discount=0%
+[39/50] appid 1091500: players=52920, price=$59.99, discount=0%
+[40/50] appid 1097150: players=500, price=$None, discount=None%
+[41/50] appid 1172470: players=52668, price=$0.0, discount=0%
+[42/50] appid 1203220: players=9783, price=$0.0, discount=0%
+[43/50] appid 1245620: players=28213, price=$59.99, discount=0%
+[44/50] appid 1491000: players=232, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4948, price=$0.0, discount=0%
+[46/50] appid 1623730: players=447984, price=$20.99, discount=30%
+[47/50] appid 1938090: players=31725, price=$None, discount=None%
+[48/50] appid 2246340: players=12810, price=$69.99, discount=0%
+[49/50] appid 2358720: players=2995, price=$59.99, discount=0%
+[50/50] appid 2694490: players=65494, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=3, price=$None, discount=None%
+[2/50] appid 440: players=41274, price=$0.0, discount=0%
+[3/50] appid 550: players=36169, price=$9.99, discount=0%
+[4/50] appid 730: players=578239, price=$0.0, discount=0%
+[5/50] appid 4000: players=19970, price=$9.99, discount=0%
+[6/50] appid 49520: players=2585, price=$19.99, discount=0%
+[7/50] appid 105600: players=29879, price=$9.99, discount=0%
+[8/50] appid 218620: players=28457, price=$9.99, discount=0%
+[9/50] appid 227300: players=17268, price=$4.99, discount=75%
+[10/50] appid 230410: players=86246, price=$0.0, discount=0%
+[11/50] appid 236390: players=40263, price=$0.0, discount=0%
+[12/50] appid 238960: players=3606, price=$0.0, discount=0%
+[13/50] appid 242760: players=5900, price=$19.99, discount=0%
+[14/50] appid 252490: players=78393, price=$39.99, discount=0%
+[15/50] appid 271590: players=47211, price=$None, discount=None%
+[16/50] appid 291480: players=5, price=$None, discount=None%
+[17/50] appid 291550: players=9908, price=$0.0, discount=0%
+[18/50] appid 292030: players=13699, price=$39.99, discount=0%
+[19/50] appid 304930: players=11779, price=$0.0, discount=0%
+[20/50] appid 346110: players=18543, price=$9.89, discount=34%
+[21/50] appid 359550: players=53285, price=$0.0, discount=0%
+[22/50] appid 381210: players=71523, price=$19.99, discount=0%
+[23/50] appid 413150: players=66603, price=$14.99, discount=0%
+[24/50] appid 431960: players=77092, price=$4.99, discount=0%
+[25/50] appid 438100: players=56833, price=$0.0, discount=0%
+[26/50] appid 444090: players=731, price=$0.0, discount=0%
+[27/50] appid 552990: players=7920, price=$0.0, discount=0%
+[28/50] appid 553850: players=31199, price=$39.99, discount=0%
+[29/50] appid 578080: players=214799, price=$0.0, discount=0%
+[30/50] appid 739630: players=7679, price=$19.99, discount=0%
+[31/50] appid 892970: players=17069, price=$19.99, discount=0%
+[32/50] appid 899770: players=855, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=9517, price=$4.99, discount=0%
+[35/50] appid 990080: players=5122, price=$59.99, discount=0%
+[36/50] appid 1063730: players=472, price=$None, discount=None%
+[37/50] appid 1085660: players=71240, price=$0.0, discount=0%
+[38/50] appid 1086940: players=52126, price=$59.99, discount=0%
+[39/50] appid 1091500: players=58981, price=$59.99, discount=0%
+[40/50] appid 1097150: players=508, price=$None, discount=None%
+[41/50] appid 1172470: players=79636, price=$0.0, discount=0%
+[42/50] appid 1203220: players=37684, price=$0.0, discount=0%
+[43/50] appid 1245620: players=31296, price=$59.99, discount=0%
+[44/50] appid 1491000: players=220, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4535, price=$0.0, discount=0%
+[46/50] appid 1623730: players=557735, price=$20.99, discount=30%
+[47/50] appid 1938090: players=30047, price=$None, discount=None%
+[48/50] appid 2246340: players=20396, price=$69.99, discount=0%
+[49/50] appid 2358720: players=10077, price=$59.99, discount=0%
+[50/50] appid 2694490: players=56121, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=1, price=$None, discount=None%
+[2/50] appid 440: players=48676, price=$0.0, discount=0%
+[3/50] appid 550: players=32688, price=$9.99, discount=0%
+[4/50] appid 730: players=759286, price=$0.0, discount=0%
+[5/50] appid 4000: players=24986, price=$9.99, discount=0%
+[6/50] appid 49520: players=2753, price=$19.99, discount=0%
+[7/50] appid 105600: players=26593, price=$9.99, discount=0%
+[8/50] appid 218620: players=32179, price=$4.99, discount=50%
+[9/50] appid 227300: players=26198, price=$4.99, discount=75%
+[10/50] appid 230410: players=69604, price=$0.0, discount=0%
+[11/50] appid 236390: players=34381, price=$0.0, discount=0%
+[12/50] appid 238960: players=4179, price=$0.0, discount=0%
+[13/50] appid 242760: players=7139, price=$19.99, discount=0%
+[14/50] appid 252490: players=99151, price=$39.99, discount=0%
+[15/50] appid 271590: players=62547, price=$None, discount=None%
+[16/50] appid 291480: players=6, price=$None, discount=None%
+[17/50] appid 291550: players=12302, price=$0.0, discount=0%
+[18/50] appid 292030: players=15857, price=$39.99, discount=0%
+[19/50] appid 304930: players=11128, price=$0.0, discount=0%
+[20/50] appid 346110: players=17562, price=$9.89, discount=34%
+[21/50] appid 359550: players=62118, price=$0.0, discount=0%
+[22/50] appid 381210: players=82759, price=$19.99, discount=0%
+[23/50] appid 413150: players=51387, price=$14.99, discount=0%
+[24/50] appid 431960: players=51148, price=$4.99, discount=0%
+[25/50] appid 438100: players=40879, price=$0.0, discount=0%
+[26/50] appid 444090: players=1097, price=$0.0, discount=0%
+[27/50] appid 552990: players=4565, price=$0.0, discount=0%
+[28/50] appid 553850: players=26455, price=$39.99, discount=0%
+[29/50] appid 578080: players=112587, price=$0.0, discount=0%
+[30/50] appid 739630: players=8813, price=$19.99, discount=0%
+[31/50] appid 892970: players=21966, price=$9.99, discount=50%
+[32/50] appid 899770: players=762, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=10356, price=$4.99, discount=0%
+[35/50] appid 990080: players=6066, price=$59.99, discount=0%
+[36/50] appid 1063730: players=533, price=$None, discount=None%
+[37/50] appid 1085660: players=67452, price=$0.0, discount=0%
+[38/50] appid 1086940: players=57249, price=$59.99, discount=0%
+[39/50] appid 1091500: players=55161, price=$59.99, discount=0%
+[40/50] appid 1097150: players=668, price=$None, discount=None%
+[41/50] appid 1172470: players=58183, price=$0.0, discount=0%
+[42/50] appid 1203220: players=8864, price=$0.0, discount=0%
+[43/50] appid 1245620: players=29973, price=$59.99, discount=0%
+[44/50] appid 1491000: players=211, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4673, price=$0.0, discount=0%
+[46/50] appid 1623730: players=512866, price=$20.99, discount=30%
+[47/50] appid 1938090: players=38320, price=$None, discount=None%
+[48/50] appid 2246340: players=12271, price=$69.99, discount=0%
+[49/50] appid 2358720: players=3007, price=$59.99, discount=0%
+[50/50] appid 2694490: players=59886, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=3, price=$None, discount=None%
+[2/50] appid 440: players=43635, price=$0.0, discount=0%
+[3/50] appid 550: players=38635, price=$9.99, discount=0%
+[4/50] appid 730: players=593332, price=$0.0, discount=0%
+[5/50] appid 4000: players=19138, price=$9.99, discount=0%
+[6/50] appid 49520: players=2349, price=$19.99, discount=0%
+[7/50] appid 105600: players=27947, price=$9.99, discount=0%
+[8/50] appid 218620: players=28949, price=$4.99, discount=50%
+[9/50] appid 227300: players=14074, price=$4.99, discount=75%
+[10/50] appid 230410: players=70862, price=$0.0, discount=0%
+[11/50] appid 236390: players=35878, price=$0.0, discount=0%
+[12/50] appid 238960: players=3153, price=$0.0, discount=0%
+[13/50] appid 242760: players=6150, price=$19.99, discount=0%
+[14/50] appid 252490: players=70401, price=$39.99, discount=0%
+[15/50] appid 271590: players=44272, price=$None, discount=None%
+[16/50] appid 291480: players=2, price=$None, discount=None%
+[17/50] appid 291550: players=10581, price=$0.0, discount=0%
+[18/50] appid 292030: players=11691, price=$39.99, discount=0%
+[19/50] appid 304930: players=11545, price=$0.0, discount=0%
+[20/50] appid 346110: players=16463, price=$9.89, discount=34%
+[21/50] appid 359550: players=59904, price=$0.0, discount=0%
+[22/50] appid 381210: players=70062, price=$19.99, discount=0%
+[23/50] appid 413150: players=60070, price=$14.99, discount=0%
+[24/50] appid 431960: players=72166, price=$4.99, discount=0%
+[25/50] appid 438100: players=45852, price=$0.0, discount=0%
+[26/50] appid 444090: players=770, price=$0.0, discount=0%
+[27/50] appid 552990: players=6567, price=$0.0, discount=0%
+[28/50] appid 553850: players=26210, price=$39.99, discount=0%
+[29/50] appid 578080: players=159537, price=$0.0, discount=0%
+[30/50] appid 739630: players=8304, price=$19.99, discount=0%
+[31/50] appid 892970: players=15644, price=$9.99, discount=50%
+[32/50] appid 899770: players=667, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=9893, price=$4.99, discount=0%
+[35/50] appid 990080: players=4461, price=$59.99, discount=0%
+[36/50] appid 1063730: players=571, price=$None, discount=None%
+[37/50] appid 1085660: players=63965, price=$0.0, discount=0%
+[38/50] appid 1086940: players=47188, price=$59.99, discount=0%
+[39/50] appid 1091500: players=51049, price=$59.99, discount=0%
+[40/50] appid 1097150: players=514, price=$None, discount=None%
+[41/50] appid 1172470: players=67205, price=$0.0, discount=0%
+[42/50] appid 1203220: players=28683, price=$0.0, discount=0%
+[43/50] appid 1245620: players=26570, price=$59.99, discount=0%
+[44/50] appid 1491000: players=205, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4217, price=$0.0, discount=0%
+[46/50] appid 1623730: players=505299, price=$20.99, discount=30%
+[47/50] appid 1938090: players=29612, price=$None, discount=None%
+[48/50] appid 2246340: players=14011, price=$69.99, discount=0%
+[49/50] appid 2358720: players=7273, price=$59.99, discount=0%
+[50/50] appid 2694490: players=45184, price=$29.99, discount=0%
+Done.
+Collecting snapshots for 50 tracked apps...
+[1/50] appid 340: players=2, price=$None, discount=None%
+[2/50] appid 440: players=47725, price=$0.0, discount=0%
+[3/50] appid 550: players=25969, price=$9.99, discount=0%
+[4/50] appid 730: players=722741, price=$0.0, discount=0%
+[5/50] appid 4000: players=23972, price=$9.99, discount=0%
+[6/50] appid 49520: players=2289, price=$19.99, discount=0%
+[7/50] appid 105600: players=25471, price=$9.99, discount=0%
+[8/50] appid 218620: players=29586, price=$4.99, discount=50%
+[9/50] appid 227300: players=24231, price=$4.99, discount=75%
+[10/50] appid 230410: players=63291, price=$0.0, discount=0%
+[11/50] appid 236390: players=32085, price=$0.0, discount=0%
+[12/50] appid 238960: players=3804, price=$0.0, discount=0%
+[13/50] appid 242760: players=5656, price=$19.99, discount=0%
+[14/50] appid 252490: players=105930, price=$39.99, discount=0%
+[15/50] appid 271590: players=60399, price=$None, discount=None%
+[16/50] appid 291480: players=5, price=$None, discount=None%
+[17/50] appid 291550: players=12786, price=$0.0, discount=0%
+[18/50] appid 292030: players=13748, price=$39.99, discount=0%
+[19/50] appid 304930: players=12594, price=$0.0, discount=0%
+[20/50] appid 346110: players=16507, price=$9.89, discount=34%
+[21/50] appid 359550: players=57769, price=$0.0, discount=0%
+[22/50] appid 381210: players=79678, price=$19.99, discount=0%
+[23/50] appid 413150: players=44759, price=$14.99, discount=0%
+[24/50] appid 431960: players=50890, price=$4.99, discount=0%
+[25/50] appid 438100: players=36636, price=$0.0, discount=0%
+[26/50] appid 444090: players=1065, price=$0.0, discount=0%
+[27/50] appid 552990: players=4311, price=$0.0, discount=0%
+[28/50] appid 553850: players=26249, price=$39.99, discount=0%
+[29/50] appid 578080: players=103938, price=$0.0, discount=0%
+[30/50] appid 739630: players=7730, price=$19.99, discount=0%
+[31/50] appid 892970: players=18262, price=$9.99, discount=50%
+[32/50] appid 899770: players=643, price=$34.99, discount=0%
+  -> warning: player count request failed for 901583: 404 Client Error: Not Found for url: https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=901583&key=07DAFC21AFA9226F55E15690C0E784B1
+[33/50] appid 901583: players=None, price=$None, discount=None%
+[34/50] appid 945360: players=12776, price=$2.99, discount=40%
+[35/50] appid 990080: players=4900, price=$59.99, discount=0%
+[36/50] appid 1063730: players=507, price=$None, discount=None%
+[37/50] appid 1085660: players=57284, price=$0.0, discount=0%
+[38/50] appid 1086940: players=46092, price=$59.99, discount=0%
+[39/50] appid 1091500: players=47892, price=$59.99, discount=0%
+[40/50] appid 1097150: players=557, price=$None, discount=None%
+[41/50] appid 1172470: players=53067, price=$0.0, discount=0%
+[42/50] appid 1203220: players=8074, price=$0.0, discount=0%
+[43/50] appid 1245620: players=26319, price=$59.99, discount=0%
+[44/50] appid 1491000: players=203, price=$0.0, discount=0%
+[45/50] appid 1599340: players=4513, price=$0.0, discount=0%
+[46/50] appid 1623730: players=487525, price=$20.99, discount=30%
+[47/50] appid 1938090: players=34343, price=$None, discount=None%
+[48/50] appid 2246340: players=10511, price=$69.99, discount=0%
+[49/50] appid 2358720: players=2775, price=$59.99, discount=0%
+[50/50] appid 2694490: players=52371, price=$29.99, discount=0%
+Done.
